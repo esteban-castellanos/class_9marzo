@@ -1,0 +1,14 @@
+[
+ {
+  "titulo": "ver material",
+  "estado": "completo"
+ },
+ {
+  "titulo": "hacer pratica",
+  "estado": "en progreso"
+ },
+ {
+  "titulo": "ver clase del jueves",
+  "estado": "pendiente"
+ }
+]
